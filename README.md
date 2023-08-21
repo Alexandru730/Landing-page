@@ -1,2 +1,2 @@
 # Landing-page
-Landing page inside of The Odin Project 
+Landing page realized inside of The Odin Project!
