@@ -130,3 +130,7 @@ button {
 .text {
     text-align: center;
 }
+
+img, .info {
+    text-align: center;
+}
